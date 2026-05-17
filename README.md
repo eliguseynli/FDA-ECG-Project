@@ -1,6 +1,5 @@
 # Functional Data Analysis of ECG Heartbeat Signals
 
-This repository contains my project for the Functional and Topological Data Analysis exam.
 
 ## Project Description
 
